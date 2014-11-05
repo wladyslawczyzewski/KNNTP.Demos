@@ -1,0 +1,3 @@
+﻿[ ] Open opert that will use for communication with clients
+[ ] Receive requests
+[ ] Send responces
